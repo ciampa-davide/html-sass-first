@@ -1,0 +1,20 @@
+h1 {
+  background-color: #2399ff;
+  color: #ffffff;
+}
+
+h2 {
+  background-color: #1554ff;
+  color: #ffffff;
+}
+
+p {
+  background-color: #8700ff;
+  color: #ffffff;
+}
+
+button {
+  background-color: #ff2100;
+  color: #ffffff;
+  padding: 10px;
+}

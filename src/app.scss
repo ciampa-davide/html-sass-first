@@ -1,0 +1,27 @@
+$brandColor: #2399ff;
+$brandColor2: #1554ff;
+$brandColor3: #8700ff;
+$brandColor4: #ff2100;
+$textColor: #ffffff;
+
+
+h1{
+  background-color: $brandColor;
+  color: $textColor;
+}
+
+h2{
+  background-color: $brandColor2;
+  color: $textColor;
+}
+
+p{
+  background-color: $brandColor3;
+  color: $textColor;
+}
+
+button{
+  background-color: $brandColor4;
+  color: $textColor;
+  padding: 10px
+}
